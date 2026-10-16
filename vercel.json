@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/hitung",
+      "destination": "/api/index.py"
+    },
+    {
+      "source": "/hitung-kalori-makanan",
+      "destination": "/api/index.py"
+    }
+  ]
+}
